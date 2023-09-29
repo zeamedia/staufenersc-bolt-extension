@@ -1,5 +1,5 @@
 <?php
-namespace StaufenerSC\StaufenerSCBoltExtension;
+namespace zeamedia\StaufenerSCBoltExtension;
 
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;
@@ -7,7 +7,7 @@ use Twig\TwigFunction;
 /**
  * Class StaufenerSCTwig
  *
- * @package Ssc\StaufenerSC
+ * @package zeamedia\StaufenerSCBoltExtension
  */
 class StaufenerSCTwig extends AbstractExtension
 {

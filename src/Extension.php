@@ -1,5 +1,5 @@
 <?php
-namespace StaufenerSC\StaufenerSCBoltExtension;
+namespace zeamedia\StaufenerSCBoltExtension;
 
 use Bolt\Extension\BaseExtension;
 
