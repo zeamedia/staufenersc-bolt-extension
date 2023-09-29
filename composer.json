@@ -1,5 +1,5 @@
 {
-    "name": "staufenersc/staufenersc-bolt-extension",
+    "name": "zeamedia/staufenersc-bolt-extension",
     "description": "Staufener SC Bolt Erweiterung. Erzeugt einen Merge der Contenttypen 'Spiele', 'Termine' und 'Teams' um daraus in Twig die 'allevents' zu generieren.",
     "type": "bolt-extension",
     "keywords": [
@@ -21,12 +21,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "StaufenerSC\\StaufenerSCBoltExtension\\": "src/"
+            "zeamedia\\StaufenerSCBoltExtension\\": "src/"
         }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
-        "entrypoint": "StaufenerSC\\StaufenerSCBoltExtension\\Extension"
+        "entrypoint": "zeamedia\\StaufenerSCBoltExtension\\Extension"
     }
 }
